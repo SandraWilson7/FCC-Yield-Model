@@ -11,5 +11,4 @@ This project predicts gasoline yields in oil refineries using Python!
    ```bash  
    pip install pandas matplotlib  #
 ## Results 📈  
-![Temperature vs. Gasoline Yield](https://i.imgur.com/https://i.imgur.com/YuFT1Ve.png)  
-  
+![Temperature vs. Gasoline Yield](https://i.imgur.com/YuFT1Ve.png)  
